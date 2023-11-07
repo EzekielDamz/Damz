@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EzekielDamz
+- 👋 Hi, I’m @EzekielDamz a student at [Altschool](https://altschool.com)
 - 🌱 I’m currently learning javascript next is React
 - 💞️ I’m looking to collaborate on different kinds of project
 - 📫 How to reach me on damilaredolapo1@gmail.com.  https://twitter.com/dammy_zek_dor
